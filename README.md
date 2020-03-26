@@ -1,6 +1,5 @@
 # Automated Fall Detection
-
-CMPT 733 Final Project: Automated Fall Detection Using Wearable Sensor Data
+Automated Fall Detection Using Wearable Sensor Data
 
 ## /preprocessing
 
